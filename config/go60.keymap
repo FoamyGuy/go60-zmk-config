@@ -374,7 +374,7 @@
               &kp ESC   &kp A      &kp S     &kp D      &kp F   &kp G                                                                &kp H     &kp J      &kp K     &kp L  &kp SEMI           &kp SQT
  &magic LAYER_Magic 0   &kp Z      &kp X     &kp C      &kp V   &kp B                                                                &kp N     &kp M  &kp COMMA   &kp DOT  &kp FSLH  &td_LAYER_Keypad
                                &kp GRAVE  &kp LEFT  &kp RIGHT                                                                               &kp LGUI   &kp LBKT  &kp RBKT
-                                                                       &kp BSPC  &kp DEL  &kp LSHFT  &kp LCTRL  &kp RET  &kp SPACE
+                                                                       &kp BSPC  &kp LSHFT  &kp DEL  &kp LCTRL  &kp RET  &kp SPACE
             >;
         };
 
